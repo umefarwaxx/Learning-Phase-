@@ -14,12 +14,24 @@ This is my first Git Repository
 10) git config --global   -->  This command use for global<br><br>
 11) git clone  link---    --> cloning a repo on our local machine<br>
 12) git status   -->  display code status<br>
-<ls>
-<h4>we have foure types of status</h4>
+<ls><h4>we have foure types of status</h4>
   <li> Untracked </li>
   <li> Modified </li>
   <li> Staged </li>
   <li> Unmodified </li></ls>
+<br>
+<h2>Iint Command</h2>
+<ol> <li>git init</li> 
+ <li>git add (file name) or .</li> 
+ <li>git commit -m 'meaningful msg'</li> 
+ <li>git branch    (to check branch) </li> 
+ <li>git branch -M main (rename) </li> 
+ <li>git remote add origin https://github.com/project-name/localrepo.git</li>
+ <li>git remote -v (to verify remote) </li> 
+ <li>git push -u origin main</li> 
+ 
+
+</ol>
 
 
 
