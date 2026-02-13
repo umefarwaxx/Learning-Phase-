@@ -14,10 +14,8 @@ This is my first Git Repository
 10) git config --global   -->  This command use for global<br><br>
 11) git clone  link---    --> cloning a repo on our local machine<br>
 12) git status   -->  display code status<br>
-<br>
-<h3>we have foure types of status</h3>
 <ls>
-  we have foure types of status
+<h4>we have foure types of status</h4>
   <li> Untracked </li>
   <li> Modified </li>
   <li> Staged </li>
