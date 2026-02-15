@@ -28,11 +28,17 @@ This is my first Git Repository
  <li>git branch -M main (rename) </li> 
  <li>git remote add origin https://github.com/project-name/localrepo.git</li>
  <li>git remote -v (to verify remote) </li> 
- <li>git push -u origin main</li> 
+ <li>git push -u origin main</li> </ol>
+
+(16-Feb-26)
+<h2> Branch Command</h2>
+<ol> <li>git branch</li> 
+ <li>git branch -M main (to rename)</li> 
+ <li>git checkout branch name (to navigate)</li> 
+ <li>git checkout -b new branch name    (to check new branch) </li> 
+ <li>git branch -d branch name (to delete branch) </li> 
  
 
 </ol>
-
-
 
 
