@@ -39,4 +39,11 @@ This is my first Git Repository
  <li>git branch -d branch name (to delete branch) </li> 
 </ol>
 
+<h2> Merge Commands</h2>
+<ol> <li>git diff branch name (to compare branch)</li> 
+ <li>git merge branch name </li>
+</ol>
 
+ <li>Though Github </li>  
+ <li>create PR (pull request) </li> 
+ <li>git pull origin main </li> 
