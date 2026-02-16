@@ -14,6 +14,9 @@ This is my first Git Repository
 10) git config --global   -->  This command use for global<br><br>
 11) git clone  link---    --> cloning a repo on our local machine<br>
 12) git status   -->  display code status<br>
+13) git log   -->  display commit history <br>
+
+  
 <ls><h4>we have foure types of status</h4>
   <li> Untracked </li>
   <li> Modified </li>
@@ -44,6 +47,15 @@ This is my first Git Repository
  <li>git merge branch name </li>
 </ol>
 
- <li>Though Github </li>  
+ <h5>Though Github </h5>  
  <li>create PR (pull request) </li> 
  <li>git pull origin main </li> 
+
+<ol>
+  Undo Changes
+  <ul> Stage changes
+  <li> git reset file name</li>
+  
+  </ul>
+ <li>git merge branch name </li>
+</ol>
