@@ -47,15 +47,16 @@ This is my first Git Repository
  <li>git merge branch name </li>
 </ol>
 
- <h5>Though Github </h5>  
+<ul> Though Github
  <li>create PR (pull request) </li> 
  <li>git pull origin main </li> 
+</ul>
 
-<ol>
-  Undo Changes
-  <ul> Stage changes
-  <li> git reset file name</li>
-  
-  </ul>
- <li>git merge branch name </li>
+<h2> Undo Changes </h2>
+<ol> 
+ <li>git reset file name (for staged change)</li> 
+ <li>git reset HEAD~1 (for one commit)</li> 
+ <li>git reset linkcommit hash (for many commit)</li> 
+ <li>git reset --hard linkcommit hash (for local) </li>
 </ol>
+
